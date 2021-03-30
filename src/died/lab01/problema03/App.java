@@ -1,4 +1,4 @@
-package problema03;
+package died.lab01.problema03;
 
 import java.util.Random;
 
